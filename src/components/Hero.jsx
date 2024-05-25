@@ -25,16 +25,16 @@ const Hero = () => {
       <div ref={parallaxRef} className="container relative">
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[4rem] md:mb-20 lg:mb-[6rem]">
           <h1 className="h1 mb-6">
-            Explore the Possibilities of
+            Generate CodeSandboxes from 
             <br />
             <Typewriter
               options={{
                 strings: [
-                  "AI Chatting",
-                  "Photo Editing",
-                  "Video Generation",
-                  "Image Generation",
-                  "Code Generation",
+                  "a Hand Drawn Sketch",
+                  "a Screenshot",
+                  "a Website Link",
+                  "a Photo from Files",
+                  "Your Imagination",
                 ],
                 autoStart: true,
                 loop: true,
@@ -43,10 +43,9 @@ const Hero = () => {
           </h1>
 
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Unleast the power of AI within Brainwave. Upgrade your productivity
-            with{" "}
+            You're just a click a way from instantly generated apps and games in your desired framework. It's why {" "}
             <span className="inline-block relative font-semibold">
-              Brainwave
+              sketch-2-app
               <img
                 src={curve}
                 className="absolute top-full left-0 w-full xl:-mt-2 pointer-events-none select-none"
@@ -54,12 +53,12 @@ const Hero = () => {
                 height={28}
                 alt="Curve"
               />
-            </span>
-            , the open AI chat app.
+            </span>{" "}
+           is the #1 tool for rapid prototyping!
           </p>
 
           <Button href="#pricing" white>
-            Get started
+            Try it out
           </Button>
         </div>
 
@@ -70,7 +69,7 @@ const Hero = () => {
 
               <div className="aspect-[33/40] rounded-b-[0.9rem] overflow-hidden md:aspect-[688/490] lg:aspect-[1024/490]">
                 <img
-                  src={robot}
+                  src={"https://firebasestorage.googleapis.com/v0/b/dev-portfolio-da0ba.appspot.com/o/9m2dyv0xqd.gif?alt=media"}
                   className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[23%] pointer-events-none select-none"
                   width={1024}
                   height={490}

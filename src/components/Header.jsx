@@ -37,14 +37,8 @@ const Header = () => {
       }`}
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
-        <a className="block w-[12rem] xl:mr-8" href="#hero">
-          <img
-            src={brainwave}
-            width={190}
-            height={40}
-            alt="Brainwave"
-            className="pointer-events-none select-none"
-          />
+        <a className="block w-[12rem] xl:mr-8 text-lg" href="#hero">
+         sketch-2-app
         </a>
 
         <nav
@@ -77,7 +71,7 @@ const Header = () => {
         </nav>
 
         <Button className="hidden lg:flex" href={links.sourceCode} external>
-          Source Code
+          Go to App
         </Button>
 
         <Button

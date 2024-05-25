@@ -1,4 +1,4 @@
-# Code of Conduct - Brainwave
+# Code of Conduct - sketch-2-app
 
 ## Our Pledge
 

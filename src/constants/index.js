@@ -40,7 +40,7 @@ import { links } from "../config";
 export const navigation = [
   {
     id: "0",
-    title: "Features",
+    title: "About",
     url: "#features",
   },
   {
@@ -48,28 +48,28 @@ export const navigation = [
     title: "Pricing",
     url: "#pricing",
   },
-  {
-    id: "2",
-    title: "How to use",
-    url: "#how-to-use",
-  },
+  // {
+  //   id: "2",
+  //   title: "How to use",
+  //   url: "#how-to-use",
+  // },
   {
     id: "3",
-    title: "Roadmap",
+    title: "Features",
     url: "#roadmap",
   },
   {
     id: "4",
-    title: "Source Code",
+    title: "Go to App",
     url: links.sourceCode,
     onlyMobile: true,
     external: true,
   },
 ];
 
-export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
+export const heroIcons = [homeSmile, file02, plusSquare];
 
-export const notificationImages = [notification4, notification3, notification2];
+export const notificationImages = ["React", "React Native", "Next.js"];
 
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
@@ -88,36 +88,36 @@ export const brainwaveServicesIcons = [
 ];
 
 export const roadmap = [
+  // {
+  //   id: "0",
+  //   title: "Voice recognition",
+  //   text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
+  //   date: "May 2023",
+  //   status: "done",
+  //   imageUrl: roadmap1,
+  //   colorful: true,
+  // },
   {
     id: "0",
-    title: "Voice recognition",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
-    date: "May 2023",
+    title:  "Extended framework support",
+    text: "Allow users to choose framework for generated code. Choose between React, React Native & Next.js.",
+    date: "May 2024",
     status: "done",
-    imageUrl: roadmap1,
-    colorful: true,
-  },
-  {
-    id: "1",
-    title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
-    date: "May 2023",
-    status: "progress",
     imageUrl: roadmap2,
   },
   {
-    id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
-    date: "May 2023",
+    id: "1",
+    title: "Code Accuracy",
+    text: "Support icons, better detection of elements & notes from sketchs, implemented AI self checking.",
+    date: "May 2024",
     status: "done",
     imageUrl: roadmap3,
   },
   {
-    id: "3",
+    id: "2",
     title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
-    date: "May 2023",
+    text: "Understand architecture diagrams to generate functional backend from sketches or reference site.",
+    date: "May 2024",
     status: "progress",
     imageUrl: roadmap4,
   },
@@ -204,39 +204,27 @@ export const collabApps = [
 export const pricing = [
   {
     id: "0",
-    title: "Basic",
-    description: "AI chatbot, personalized recommendations",
-    price: "0",
+    title: "Self Host",
+    description: "Clone the app and use your own API keys",
+    price: "449.99",
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Deploy beautiful rich chat bot with generative UI components to render codesandboxes live",
+      "Access to code generation & code self-check pipeline",
+      "Support designing and extend the application",
     ],
     premium: false,
   },
   {
     id: "1",
-    title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
+    title: "Subscribe",
+    description: "Get unlimited access to Sketch2App",
     price: "9.99",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "An AI chatbot that can generate functional app code",
+      "Chat history to manage previous generations and code sandboxes",
+      "Export and iterate on apps with natural language",
     ],
     premium: true,
-  },
-  {
-    id: "2",
-    title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
-    price: null,
-    features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
-    ],
-    premium: false,
   },
 ];
 

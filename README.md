@@ -1,17 +1,17 @@
 <a name="readme-top"></a>
 
-# Brainwave - Modern Animated SaaS Generative AI Landing Page
+# sketch-2-app - Modern Animated SaaS Generative AI Landing Page
 
-![Brainwave - Modern Animated SaaS Generative AI Landing Page](/.github/images/img_main.png "Brainwave - Modern Animated SaaS Generative AI Landing Page")
+![sketch-2-app - Modern Animated SaaS Generative AI Landing Page](/.github/images/img_main.png "sketch-2-app - Modern Animated SaaS Generative AI Landing Page")
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/brainwave?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/brainwave/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/brainwave/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/brainwave?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/brainwave/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/brainwave?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/brainwave/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/brainwave?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/brainwave/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/brainwave?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/brainwave/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/12f8872e-e503-44e8-aaee-9d024f8cba55/deploy-status)](https://app-brainwave.netlify.app/ "Netlify Status")
+[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/sketch-2-app?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/sketch-2-app/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/sketch-2-app/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/sketch-2-app?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/sketch-2-app/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/sketch-2-app?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/sketch-2-app/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/sketch-2-app?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/sketch-2-app/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/sketch-2-app?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/sketch-2-app/pulls "GitHub pull requests")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/12f8872e-e503-44e8-aaee-9d024f8cba55/deploy-status)](https://app-sketch-2-app.netlify.app/ "Netlify Status")
 
 <!-- Table of Contents -->
 <details>
@@ -44,7 +44,7 @@
 Here is the folder structure of this app.
 
 ```bash
-brainwave/
+sketch-2-app/
   |- public/
     |-- apple-icon.png
     |-- favicon.ico
@@ -124,7 +124,7 @@ brainwave/
 
 ## :wrench: Stats
 
-[![Stats for Brainwave](/.github/images/stats.svg "Stats for Brainwave")](https://pagespeed.web.dev/analysis?url=https://app-brainwave.netlify.app/ "Stats for Brainwave")
+[![Stats for sketch-2-app](/.github/images/stats.svg "Stats for sketch-2-app")](https://pagespeed.web.dev/analysis?url=https://app-sketch-2-app.netlify.app/ "Stats for sketch-2-app")
 
 ## :raised_hands: Contribute
 
@@ -132,7 +132,7 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ## :gem: Acknowledgements
 
-Useful resources and dependencies that are used in Brainwave.
+Useful resources and dependencies that are used in sketch-2-app.
 
 - [framer-motion](https://www.npmjs.com/package/framer-motion): ^11.0.12
 - [react](https://www.npmjs.com/package/react): ^18.2.0
@@ -160,7 +160,7 @@ Useful resources and dependencies that are used in Brainwave.
 ## :rocket: Follow Me
 
 [![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fbrainwave "Tweet about this project")
+[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fsketch-2-app "Tweet about this project")
 [![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER./?sub_confirmation=1 "Subscribe to my YouTube Channel")
 
 ## :books: Learn More
@@ -191,11 +191,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/brainwave&Timeline">
+<a href="https://star-history.com/#sanidhyy/sketch-2-app&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/brainwave&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/brainwave&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/brainwave&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/sketch-2-app&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/sketch-2-app&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/sketch-2-app&type=Timeline" />
 </picture>
 </a>
 

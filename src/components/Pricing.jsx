@@ -29,8 +29,8 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with Brainwave"
-          title="Pay once, use forever"
+          tag="Get started with sketch-2-app"
+          title="Instanly generate React or React Native apps"
         />
 
         <div className="relative">
@@ -42,9 +42,9 @@ const Pricing = () => {
         <div className="flex justify-center mt-10">
           <a
             className="text-xs font-code font-bold tracking-wider uppercase border-b"
-            href="#"
+            href="https://chat.sketch2app.io"
           >
-            See the full details
+            Try for free
           </a>
         </div>
       </div>

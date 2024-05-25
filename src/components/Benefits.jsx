@@ -14,9 +14,9 @@ const Benefits = () => {
           className="md:max-w-md lg:max-w-2xl"
           title={
             <>
-              Chat Smarter, Not Harder with{" "}
+              Dev Smarter, Not Harder with{" "}
               <span className="inline-block relative font-semibold">
-                Brainwave
+                sketch-2-app
                 <img
                   src={curve}
                   className="absolute top-full left-0 w-full xl:-mt-2 pointer-events-none select-none"
@@ -30,7 +30,18 @@ const Benefits = () => {
         />
 
         <div className="flex flex-wrap gap-10 mb-10">
-          {benefits.map((benefit) => (
+        <iframe  
+                  className="w-full scale-[1.7] md:scale-[1]"
+                  width={1024}
+                  height={490} 
+                  src="https://www.youtube.com/embed/8s9CTOvHHis?si=S3BJlhQ8bkjRVfZO" 
+                  title="Sketch2App 2.0" 
+                  frameborder="0" 
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                  referrerpolicy="strict-origin-when-cross-origin" 
+                  allowfullscreen>
+                 </iframe>
+          {/* {benefits.map((benefit) => (
             <div
               className="block relative p-0.5 bg-no-repeat bg-[length:100%_100%] md:max-w-[24rem]"
               style={{
@@ -77,7 +88,7 @@ const Benefits = () => {
 
               <ClipPath />
             </div>
-          ))}
+          ))} */}
         </div>
       </div>
     </Section>
